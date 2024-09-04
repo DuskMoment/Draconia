@@ -1,0 +1,4 @@
+reddragon.png from https://opengameart.org/content/red-dragon 
+fireball.png from https://opengameart.org/content/fireball-spritesheet
+mechdragon.png (and similars) from Mega Man 2 The Power Fighters https://www.sprites-inc.co.uk/sprite.php?local=Classic/PowerF/Boss/FortressBosses/MechaDragon/
+tailwind.png from https://spritefx.blogspot.com/2013/04/sprite-wind.html

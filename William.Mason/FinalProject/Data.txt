@@ -1,0 +1,135 @@
+highVel:100
+lowVel:100
+lowSpeed:100
+HighSpeed:50
+negPoints:0
+posPoints:1000
+percentChance:10
+outOf:1000
+spawnChance:10
+timeTillIncrease:1
+speedIncreaseAmmount:5
+defaultScore:10
+spawnRangeX:100
+spawnRangeY:100
+bossHealth:100
+playerHealth:50
+tailwindHeal:3
+tailwindOverheal:1
+timeBetweenPatterns:10
+timeBeforeDowntime:4
+bossBulletSpeedSlow:100
+bossBulletSpeedMedium:200
+bossBulletSpeedFast:300
+bossPatternAXStart:700
+bossPatternAXEnd:1300
+bossPatternAXDiff:100
+bossPatternAXStep:5
+bossPatternAYStart:500
+bossPatternAYEnd:0
+bossPatternAYDiff:25
+bossPatternAYGap:300
+bossPatternATailwindX:0
+bossPatternATailwindY:200
+bossPatternBXStart:700
+bossPatternBXEnd:2500
+bossPatternBXDiff:50
+bossPatternBYStart:000
+bossPatternBYEnd:600
+bossPatternBYDiff:100
+bossPatternBTicks:5
+bossPatternCXStart:700
+bossPatternCXEnd:900
+bossPatternCXDiff:50
+bossPatternCYStart:0
+bossPatternCYEnd:800
+bossPatternCYDiff:100
+bossPatternCLineDiff:20
+bossPatternCLineLengths:200
+bossPatternCLineSkip:180
+bossPatternCLineGap:60
+bossPatternCLineX:1400
+bossRandomYMin:100
+bossRandomYRange:1000
+bossRandomX:1000
+STRING
+PointCollected:..\\..\\shared\\assets\\minetrap\\FANFARE.WAV
+PointLost:..\\..\\shared\\assets\\minetrap\\MAKEHIGH.WAV
+gameOver:..\\..\\shared\\assets\\minetrap\\EXPLO1.WAV
+0phase0:Let's rumble!
+1phase0:Ahoy, matey!
+2phase0:Let us joust!
+0phase1:Roargh! Stop that!
+1phase1:Arr, this be me loot!
+2phase1:How uncouth!
+0phase2:That's too bad!
+1phase2:I be plunderin'!
+2phase2:Thy corrupt king!
+0phase3:Alright, that's it!
+1phase3:Blow th' man down!
+2phase3:I shalt down
+ thee mine self!
+0phase4:It's my last chance!
+1phase4:You scurvy dog!
+2phase4:In the name of chivalry!
+0phase5:LETSGOOOOO
+1phase5:By the seven seas!
+2phase5:A grand success!
+0Welcome:Welcome To Draconia!
+1Welcome:Come Aboard Draconia!
+2Welcome:Draconia!
+0Left:Press Left Click To Start
+1Left:Press Left Click T' Set Sail
+2Left:Press Left Click To Begin
+0Right:Right Click For Settings
+1Right:Right Click T' Change Course
+2Right:Right Click To See The Law
+0Settings:Settings
+1Settings:Map
+2Settings:King's Decree
+0PressL:L to Change Language
+1PressL:L t' become a landlubber
+2PressL:L to find new culture
+0PressM:M to mute and unmute game
+1PressM:M t' take on/off yer ear patch
+2PressM:M to evade/encounter the naysayers
+0PressG:G to load from a save
+1PressG:G t' get back on course
+2PressG:G to continue your quest
+0SelectDifficulty:Select 1-3 to change the difficulty
+1SelectDifficulty:Select 1-3 to chart a harder course
+2SelectDifficulty:Select 1-3 to joust a tougher knight
+0Pause:GAME PAUSED
+1Pause:NO WIND FER THA SAILS
+2Pause:BREAK FOR TEA
+0Esc:ESC to Exit
+1Esc:ESC to walk tha plank
+2Esc:ESC to become a coward
+0EscP:ESC to Pause
+1EscP:ESC t' Avast
+2EscP:ESC to Halt
+0Space:Space to unpause
+1Space:Space t' keep plunderin'
+2Space:Space to continue
+0FPS:FPS-
+1FPS:FPARR-
+2FPS:HPS-
+0Time:Time-
+1Time:Sundial-
+2Time:Watch-
+0Health:Health-
+1Health:Booty-
+2Health:Dignity-
+0Start:Press Space to Start Game
+1Start:Press Space t' Start Plunderin'
+2Start:Press Space to Joust
+0Over:GAME OVER
+1Over:YER DONE
+2Over:JOUST FINISHED
+0Thanks:- Thanks for playing! -
+1Thanks:- Ye did well! -
+2Thanks:- A splendourous accord! -
+0Again:- Press F to play again -
+1Again:- Press F t' reset sail -
+2Again:- Press F to try again -
+STRING_END

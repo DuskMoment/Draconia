@@ -1,0 +1,37 @@
+﻿  Boss.cpp
+  BossFireball.cpp
+  BossHealthEvent.cpp
+  ChangeLanguageEvent.cpp
+  ChangePointEvent.cpp
+  DataReader.cpp
+  DiffucltyChangeEvent.cpp
+  Game.cpp
+  GameEvent.cpp
+  GameOverEvent.cpp
+  HUD.cpp
+  InputTranslator.cpp
+  LoadFromSaveEvent.cpp
+  main.cpp
+  Menue.cpp
+  MuteSoundEvent.cpp
+  PauseAllAnimations.cpp
+  PauseGameEvent.cpp
+  Player.cpp
+  PlayerDirectionEvent.cpp
+  Generating Code...
+  Compiling...
+  PlayerFireball.cpp
+  PlayerHealthEvent.cpp
+  PlaySoundEvent.cpp
+  QuitGame.cpp
+  RestartGameEvent.cpp
+  SoundManager.cpp
+  SwitchAnimationEvent.cpp
+  SwitchMenueEvent.cpp
+  Tailwind.cpp
+  Unit.cpp
+  UnitChangeEvent.cpp
+  UnitCreator.cpp
+  UnitManager.cpp
+  Generating Code...
+  assignment2.vcxproj -> C:\Users\wmans\OneDrive\Desktop\Draconia\William.Mason\FinalProject\Debug\assignment2.exe
